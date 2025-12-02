@@ -5,7 +5,7 @@ It focuses on cleaning, preprocessing, visualizing, and preparing a student ment
 The tasks include handling missing values, detecting outliers, fixing invalid data, encoding categorical variables, normalization, duplicate removal, data filtering, balancing (oversampling), and splitting the dataset into training and testing sets.
 
 
-## Objectives of the Project
+## 📌 Objectives of the Project
 The main goals of the project were:
 
 - Identify and handle missing values  
@@ -23,6 +23,7 @@ The main goals of the project were:
 
 
 ## Repository Structure
+'''
 project-folder/
 │
 ├── README.md
@@ -34,10 +35,10 @@ project-folder/
 ├── data/
 │ ├── original_dataset.csv # Raw dataset
 │ └── cleaned_dataset.csv # Cleaned dataset
+'''
 
 
-
-## Technologies Used
+## 🛠️ Technologies Used
 
 - **R Programming Language**
 - Packages:
@@ -48,7 +49,7 @@ project-folder/
 
 ---
 
-## Key Steps Performed
+## 🚀 Key Steps Performed
 
 ### ✔ 1. Handling Missing Values
 - Checked missing values using `colSums(is.na())`
