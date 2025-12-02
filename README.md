@@ -24,17 +24,17 @@ The main goals of the project were:
 
 ## Repository Structure
 
-project-folder/
-│
-├── README.md
-├── report.pdf
-│
-├── code/
-│ └── midterm_project.R # Main R script
-│
-├── data/
-│ ├── original_dataset.csv # Raw dataset
-│ └── cleaned_dataset.csv # Cleaned dataset
+project-folder/ <br>
+│ <br>
+├── README.md <br>
+├── report.pdf <br>
+│ <br>
+├── code/ <br>
+│ └── midterm_project.R # Main R script <br>
+│ <br>
+├── data/ <br>
+│ ├── original_dataset.csv # Raw dataset <br>
+│ └── cleaned_dataset.csv # Cleaned dataset <br>
 
 
 
