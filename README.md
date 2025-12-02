@@ -23,7 +23,7 @@ The main goals of the project were:
 
 
 ## Repository Structure
-'''
+
 project-folder/
 │
 ├── README.md
@@ -35,7 +35,7 @@ project-folder/
 ├── data/
 │ ├── original_dataset.csv # Raw dataset
 │ └── cleaned_dataset.csv # Cleaned dataset
-'''
+
 
 
 ## 🛠️ Technologies Used
