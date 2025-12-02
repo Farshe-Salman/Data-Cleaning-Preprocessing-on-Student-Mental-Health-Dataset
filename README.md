@@ -112,17 +112,12 @@ Compared patterns between depressed vs. non-depressed students.
 ### ✔ 13. Study Satisfaction Analysis
 Used grouped summary + histograms to analyze variation in study hours.
 
----
 
-## 📊 Example Output (Optional)
-Place your generated plots inside the `plots/` folder.
-
----
 
 ## 📜 How to Run the R Script
 
 1. Clone this repository:
-git clone https://github.com/your-username/your-repo-name.git
+git clone [https://github.com/your-username/your-repo-name.git](https://github.com/Farshe-Salman/Data-Cleaning-Preprocessing-on-Student-Mental-Health-Dataset.git)
 
 2. Open the project in RStudio.
 
@@ -130,5 +125,5 @@ git clone https://github.com/your-username/your-repo-name.git
 install.packages(c("dplyr", "caret", "ggplot2", "utf8"))
 
 4. Run the script:
-source("code/midterm_project.R")
+source("code/Project Code.R")
 
